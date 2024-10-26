@@ -1,6 +1,6 @@
 ## Hiii
  <div>
-<p>Técnica em Informática</p>
+<p>🖥️Técnica em Informática</p>
 <p>👩🏽‍💻Estudante de Ciência da Computação.</p>
 <p>🏫Unesp-Bauru.</p> 
  </div>
