@@ -8,7 +8,7 @@
  
  <div>
   <a href="https://github.com/sophiaferreira">
-  <img height="180em" width="400cm" src="https://github-readme-stats.vercel.app/api?username=sophiaferreira&theme=jolly&show_icons=true&hide_border=true&count_private=true&rank_icon=github&v=1"/>   
+  <img height="180em" width="400cm" src="https://github-readme-stats.vercel.app/api?username=sophiaferreira&theme=jolly&show_icons=true&hide_border=true&count_private=true&rank_icon=github&v=2"/>   
   <img height="180cm" width="400cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophiaferreira&theme=jolly&show_icons=true&hide_border=true&layout=compact&v=1" />
 
 
