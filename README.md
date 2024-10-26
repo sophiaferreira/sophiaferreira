@@ -1,6 +1,6 @@
 ## Hiii
  <div>
-<p>👩🏽‍💻Sou estudante de Ciência da Computação.</p>
+<p>👩🏽‍💻Estudante de Ciência da Computação.</p>
 <p>🏫Unesp-Bauru.</p> 
  </div>
 
