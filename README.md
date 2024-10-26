@@ -1,7 +1,7 @@
 ## Hiii
  <div>
-<p>🖥️Técnica em Informática.</p>
-<p>👩🏽‍💻Estudante de Ciência da Computação.</p>
+<p>🖥️IT Technician.</p>
+<p>👩🏽‍💻Computer Science student.</p>
 <p>🏫Unesp-Bauru.</p> 
  </div>
 
