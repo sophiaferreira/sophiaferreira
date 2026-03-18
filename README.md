@@ -1,4 +1,4 @@
-<h1 align="center">Hii I'm Sophia!👋</h1>
+<h1 align="center">Hii! 👋</h1>
 
 <p align="center">
   🖥️ IT Technician <br>
